@@ -157,7 +157,7 @@ EXAMPLES = r'''
     default: "true"
     location: "Room 404"
     info: "MFP, but duplex broken, as usual on this model"
-    printer_assign_policy: "students"
+    assign_cups_policy: "students"
     report_ipp_supply_levels: "true"
     report_snmp_supply_levels: "false"
     options:
